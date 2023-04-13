@@ -62,7 +62,7 @@ private:
     //Cooldown information
     bool isCooldown = false; //Is currently recharging timewarp
     float cooldownCharge = 0.f; //Float 0-100 where 0 is empty and 100 is fully recharged
-    float cooldownRate = 0.15f; //Rate the power is recharged
+    float cooldownRate = 100.0f; //Rate the power is recharged
     float cooldownDischarge = 0.3f; //The charge is set to 60 at rewind start, slowly lower the charge by this rate
 
     //Private functions
