@@ -1,3 +1,13 @@
+#Time travel mod for super mario odyssey with no cooldown
+
+I edited a time travel mod made by Aethyst-szs so it had no cooldown. I mostly use this for trickjumping, but use it for whatever you want.
+
+
+
+#ORIGINAL README
+
+
+
 # Starlight — Time Travel
 
 This repo contains a modification built for Super Mario Odyssey Online allowing time travel, rewinding your actions. The source code for a standalone version of time travel is here.
