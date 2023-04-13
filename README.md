@@ -1,10 +1,10 @@
-#Time travel mod for super mario odyssey with no cooldown
+# Time travel mod for super mario odyssey with no cooldown
 
 I edited a time travel mod made by Aethyst-szs so it had no cooldown. I mostly use this for trickjumping, but use it for whatever you want.
 
 
 
-#ORIGINAL README
+# ORIGINAL README
 
 
 
